@@ -8,8 +8,11 @@
     "build": "turbo run build"
   },
   "devDependencies": {
-    "@storybook/addon-docs": "^7.0.11",
-    "@storybook/cli": "^7.0.10",
+    "@storybook/addon-docs": "^7.0.12",
+    "@storybook/cli": "^7.0.12",
     "turbo": "^1.9.3"
+  },
+  "dependencies": {
+    "phosphor-react": "^1.4.1"
   }
 }
